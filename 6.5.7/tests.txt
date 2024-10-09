@@ -5,3 +5,99 @@ output: 19
 test #2
 input: -1 -2 -3 -4
 output: -3
+
+test #3
+input: 1 2 3 4
+output: 7
+
+test #4
+input: 1 2 4 3
+output: 7
+
+test #5
+input: 1 3 2 4
+output: 7
+
+test #6
+input: 1 3 4 2
+output: 7
+
+test #7
+input: 1 4 2 3
+output: 7
+
+test #8
+input: 1 4 3 2
+output: 7
+
+test #9
+input: 2 1 3 4
+output: 7
+
+test #10
+input: 2 1 4 3
+output: 7
+
+test #11
+input: 2 3 1 4
+output: 7
+
+test #12
+input: 2 3 4 1
+output: 7
+
+test #13
+input: 2 4 1 3
+output: 7
+
+test #14
+input: 2 4 3 1
+output: 7
+
+test #15
+input: 3 1 2 4
+output: 7
+
+test #16
+input: 3 1 4 2
+output: 7
+
+test #17
+input: 3 2 1 4
+output: 7
+
+test #18
+input: 3 2 4 1
+output: 7
+
+test #19
+input: 3 4 1 2
+output: 7
+
+test #20
+input: 3 4 2 1
+output: 7
+
+test #21
+input: 4 1 2 3
+output: 7
+
+test #22
+input: 4 1 3 2
+output: 7
+
+test #23
+input: 4 2 1 3
+output: 7
+
+test #24
+input: 4 2 3 1
+output: 7
+
+test #25
+input: 4 3 1 2
+output: 7
+
+test #26
+input: 4 3 2 1
+output: 7
